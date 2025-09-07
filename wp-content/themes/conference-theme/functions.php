@@ -26,7 +26,7 @@ function conference_theme_scripts() {
     wp_enqueue_script('conference-main', get_template_directory_uri() . '/assets/js/main.js', array('jquery'), '1.0.0', true);
     
     // Add Google Fonts
-    wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap', false);
+    wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap', array(), '1.0.0');
 }
 add_action('wp_enqueue_scripts', 'conference_theme_scripts');
 
@@ -86,4 +86,72 @@ function conference_widgets_init() {
     ));
 }
 add_action('widgets_init', 'conference_widgets_init');
+
+// Custom URL rewrite rules for clean URLs
+function conference_custom_rewrite_rules() {
+    // Add custom query variables
+    add_rewrite_tag('%custom_page%', '([^&]+)');
+    
+    // Add rewrite rules for custom pages
+    add_rewrite_rule('^faq/?$', 'index.php?custom_page=faq', 'top');
+    add_rewrite_rule('^registration/?$', 'index.php?custom_page=registration', 'top');
+}
+add_action('init', 'conference_custom_rewrite_rules');
+
+// Add custom query variables
+function conference_add_query_vars($vars) {
+    $vars[] = 'custom_page';
+    return $vars;
+}
+add_filter('query_vars', 'conference_add_query_vars');
+
+// Template redirect for custom pages
+function conference_template_redirect() {
+    $custom_page = get_query_var('custom_page');
+    
+    if ($custom_page) {
+        $template_file = '';
+        
+        switch ($custom_page) {
+            case 'faq':
+                $template_file = 'page-faq.php';
+                break;
+            case 'registration':
+                $template_file = 'page-registration.php';
+                break;
+        }
+        
+        if ($template_file) {
+            $template_path = get_template_directory() . '/' . $template_file;
+            if (file_exists($template_path)) {
+                include $template_path;
+                exit;
+            }
+        }
+    }
+}
+add_action('template_redirect', 'conference_template_redirect');
+
+// Flush rewrite rules on theme activation
+function conference_flush_rewrite_rules() {
+    conference_custom_rewrite_rules();
+    flush_rewrite_rules();
+}
+add_action('after_switch_theme', 'conference_flush_rewrite_rules');
+
+// Add admin notice for flushing rewrite rules
+function conference_admin_notice() {
+    if (get_option('conference_rewrite_rules_flushed') !== '1') {
+        echo '<div class="notice notice-warning is-dismissible">';
+        echo '<p><strong>Conference Theme:</strong> Please go to <a href="' . admin_url('options-permalink.php') . '">Settings > Permalinks</a> and click "Save Changes" to activate custom URL routes (/faq and /registration).</p>';
+        echo '</div>';
+    }
+}
+add_action('admin_notices', 'conference_admin_notice');
+
+// Mark rewrite rules as flushed when permalinks are saved
+function conference_permalink_structure_changed() {
+    update_option('conference_rewrite_rules_flushed', '1');
+}
+add_action('permalink_structure_changed', 'conference_permalink_structure_changed');
 ?>

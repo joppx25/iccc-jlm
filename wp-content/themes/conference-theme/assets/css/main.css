@@ -51,6 +51,7 @@
     position: relative;
     display: flex;
     align-items: center;
+    justify-content: center;
     background: url('../images/galilee-background.jpg') center/cover;
 }
 
@@ -81,6 +82,7 @@
     margin-bottom: 1rem;
     color: white;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    margin-top: 10vh;
 }
 
 .hero-content h2 {

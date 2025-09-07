@@ -127,36 +127,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Parallax effect for hero section
-    const heroSection = document.querySelector('.hero-section');
-    
-    if (heroSection) {
-        window.addEventListener('scroll', function() {
-            const scrolled = window.pageYOffset;
-            const parallax = scrolled * 0.5;
-            
-            if (scrolled < heroSection.offsetHeight) {
-                heroSection.style.transform = `translateY(${parallax}px)`;
-            }
-        });
-    }
-    
-    // Intersection Observer for animations
-    const observerOptions = {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
-    };
-    
-    const observer = new IntersectionObserver(function(entries) {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('animate-in');
-            }
-        });
-    }, observerOptions);
-    
-    // Observe elements for animation
-    document.querySelectorAll('.package-card, .activity-item, .circular-image').forEach(el => {
-        observer.observe(el);
-    });
 });

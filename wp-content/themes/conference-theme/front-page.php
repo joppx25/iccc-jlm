@@ -28,7 +28,7 @@
     </section>
 
     <!-- Circular Images Section -->
-    <section class="activities-preview">
+    <!-- <section class="activities-preview">
         <div class="container">
             <div class="circular-images">
                 <div class="circular-image">
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Package Information -->
     <section class="packages-section">

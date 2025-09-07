@@ -346,7 +346,7 @@ if ($_POST && wp_verify_nonce($_POST['registration_nonce'], 'conference_registra
 .package-price {
     font-size: 2rem;
     font-weight: bold;
-    color: var(--primary-gold);
+    color: #fff;
     margin: 0.5rem 0;
 }
 
@@ -378,7 +378,7 @@ if ($_POST && wp_verify_nonce($_POST['registration_nonce'], 'conference_registra
 
 .form-actions {
     text-align: center;
-    padding-top: 2rem;
+    /* padding-top: 2rem; */
 }
 
 .payment-note {
