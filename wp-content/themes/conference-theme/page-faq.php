@@ -9,258 +9,183 @@
             </div>
 
             <div class="faq-content">
+                <!-- General Questions Section -->
+                <div class="faq-section-header">
+                    <h2>General Questions</h2>
+                </div>
+
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>What's included in the registration packages?</h3>
+                        <h3>What is the ICCC?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <div class="package-comparison">
-                            <div class="package-info">
-                                <h4>Philippine Delegates Package (₱195,000)</h4>
-                                <strong>Inclusions:</strong>
-                                <ul>
-                                    <li>International round trip airfare on economy</li>
-                                    <li>8-night hotel accommodation with meals on twin-sharing</li>
-                                    <li>Airport assistance upon arrival</li>
-                                    <li>2-day conference activities</li>
-                                </ul>
-                                <strong>Exclusions:</strong>
-                                <ul>
-                                    <li>Domestic Fares</li>
-                                    <li>ETA-IL entry permit fee (US$7) - thru online</li>
-                                    <li>Personal expenses</li>
-                                    <li>All others not mentioned in the itinerary</li>
-                                </ul>
-                            </div>
-                            
-                            <div class="package-info">
-                                <h4>International Delegates Package ($2,270)</h4>
-                                <strong>Inclusions:</strong>
-                                <ul>
-                                    <li>3-night accommodation with meals on twin-sharing</li>
-                                    <li>Airport assistance upon arrival</li>
-                                    <li>2-day conference and post conference activities</li>
-                                </ul>
-                                <strong>Exclusions:</strong>
-                                <ul>
-                                    <li>International Air Fare</li>
-                                    <li>International travel insurance</li>
-                                    <li>ETA-IL entry permit fee (US$7) - thru online</li>
-                                    <li>Personal expenses</li>
-                                    <li>All others not mentioned in the itinerary</li>
-                                </ul>
-                            </div>
-                        </div>
+                        <p>The 1ST International Conference of Christian Churches is a gathering of Judeo-Christian churches from all over the world who accept the call to unite in the name of the Messiah Jesus Christ, Son of the Most High, Saviour of mankind, as found in His last prayer at the garden of Gethsemane, found in John 17:20-21:</p>
+                        <blockquote>"My prayer is that all of them may be one, Father, just as you are in Me and I am in You. May they also be in Us."</blockquote>
+                        <p>This first time gathering is to honor the Lord's prayer in Gethsemane through a 2 Day conference of the world's Christian churches, the remnant that answers His call to unite together, standing with our Messianic Jewish brothers. Followed by a 6-day activity of Biblical significance. It will be held on <strong>December 07 - 17, 2025</strong>.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>What are the payment terms and conditions?</h3>
+                        <h3>Who are the Convenors of this Conference?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <h4>For Philippine Delegates:</h4>
-                        <ul>
-                            <li><strong>Booking Deposit:</strong> US$1,400 (₱78,400) - Due on or before September 30, 2025</li>
-                            <li><strong>Full Payment:</strong> US$2,083 (₱116,648) - Due on or before November 15, 2025</li>
-                            <li>No reservations allowed without deposit</li>
-                            <li>Single occupancy allowed with $650 add-on</li>
-                            <li>Standard Airline Cancellation Fee applies</li>
-                        </ul>
-                        
-                        <h4>For International Delegates:</h4>
-                        <ul>
-                            <li><strong>Full Payment:</strong> US$2,270 - Due upon registration online</li>
-                            <li>Payment must be completed during the registration process</li>
-                        </ul>
+                        <p>The lead convenors are composed of Spirit-filled leaders of the Philippine church who may be joined by other Convenors coming from International Christian congregations participating in the ICCC.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>What post-conference activities are available?</h3>
+                        <h3>I am a Pastor from a local independent church. I don't belong to a big congregation. Can I attend this conference?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <p>The conference includes visits to various historical and religious sites:</p>
-                        
-                        <div class="activities-grid">
-                            <div class="activity-category">
-                                <h4>Historical Sites</h4>
-                                <ul>
-                                    <li>Caesarea</li>
-                                    <li>Tel Megiddo</li>
-                                    <li>Muchraka / Mt. Carmel</li>
-                                    <li>Nazareth 1st Century Village</li>
-                                </ul>
-                            </div>
-                            
-                            <div class="activity-category">
-                                <h4>Religious Sites</h4>
-                                <ul>
-                                    <li>Church of Cana</li>
-                                    <li>Nativity Church</li>
-                                    <li>Garden of Gethsamane</li>
-                                    <li>Shepherds' Fields</li>
-                                </ul>
-                            </div>
-                            
-                            <div class="activity-category">
-                                <h4>Cultural Experiences</h4>
-                                <ul>
-                                    <li>Boat Ride Galilee Sailing</li>
-                                    <li>City of David</li>
-                                    <li>Garden Tomb</li>
-                                    <li>Kalia Beach Dead Sea</li>
-                                    <li>Qas el Yahud</li>
-                                </ul>
-                            </div>
-                        </div>
+                        <p><strong>YES.</strong> If you are a bible-based church, with a Judeo-Christian statement of faith, you absolutely can.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>What accommodation is provided?</h3>
+                        <h3>Can I fly to the conference from another or any country?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <p>All participants will be accommodated in quality hotels:</p>
-                        <ul>
-                            <li><strong>Galilee:</strong> 4 nights in 5-star Hotel (David's Harp Hotel)</li>
-                            <li><strong>Bethlehem:</strong> 4 nights in 4-star Hotel (Orient Palace)</li>
-                            <li>All accommodations include meals on twin-sharing basis</li>
-                            <li>Single occupancy available with additional fee ($650 for Philippine delegates)</li>
-                            <li>All hotel accommodation includes full board meals (breakfast, lunch, dinner)</li>
-                        </ul>
+                        <p><strong>YES,</strong> that's why the local and international fares are part of the exclusions.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>What should I bring and prepare for the trip?</h3>
+                        <h3>I have so many activities lined up on those dates. Can I just attend the conference and not the post-conference activities?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <h4>Required Documents:</h4>
-                        <ul>
-                            <li>Valid passport (at least 6 months validity)</li>
-                            <li>ETA-IL entry permit (US$7 - process online)</li>
-                            <li>Travel insurance (for international delegates)</li>
-                        </ul>
-                        
-                        <h4>What's Included:</h4>
-                        <ul>
-                            <li>Medical/Personal International Travel Insurance</li>
-                            <li>English-speaking, IMoT-accredited tour guide</li>
-                            <li>Private air-conditioned tourist bus with WiFi</li>
-                            <li>IMoT-accredited bus driver service</li>
-                            <li>Headsets for clear communication</li>
-                            <li>Entrance fees to all sites</li>
-                            <li>Bottled water per day</li>
-                            <li>Gratuities (tips) for guide, driver, and hotel staff</li>
-                        </ul>
-                        
-                        <h4>Recommended Items to Bring:</h4>
-                        <ul>
-                            <li>Comfortable walking shoes</li>
-                            <li>Light jacket or sweater</li>
-                            <li>Sun hat and sunscreen</li>
-                            <li>Camera</li>
-                            <li>Personal medications</li>
-                            <li>Modest clothing for religious sites</li>
-                        </ul>
+                        <p><strong>YES.</strong> Although we will pray that you can attend the post-conference activities so that you can extend the fellowship with your fellow believers from different countries.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>How can I contact the organizers?</h3>
+                        <h3>Can I just attend the post-conference activities and not the conference proper itself?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <div class="contact-grid">
-                            <div class="contact-item">
-                                <h4>Conference Inquiries</h4>
-                                <p><strong>Email:</strong> iccc.jlm@gmail.com</p>
-                                <p>For general conference information and program details</p>
-                            </div>
-                            
-                            <div class="contact-item">
-                                <h4>Travel Coordination</h4>
-                                <p><strong>NEW WORLD TRAVEL</strong></p>
-                                <p><strong>Phone:</strong> +63 917 774 0505</p>
-                                <p><strong>WhatsApp:</strong> Available via Viber</p>
-                                <p>For flight arrangements and travel logistics</p>
-                            </div>
-                            
-                            <div class="contact-item">
-                                <h4>Registration Support</h4>
-                                <p><strong>Email:</strong> demarques44@gmail.com</p>
-                                <p>For registration assistance and technical support</p>
-                            </div>
-                            
-                            <div class="contact-item">
-                                <h4>Conference Convenors</h4>
-                                <ul>
-                                    <li>Bishop LEO ALCONGA</li>
-                                    <li>Pastor LALANO BADOY - Speaker's Bureau, International Relations</li>
-                                    <li>Mr. ALBERT VEKSLEER, JPB</li>
-                                    <li>Pastor RUFFY LAGAT / Pastor SALEM LAGAT</li>
-                                    <li>Pastor ARMOND VALDEZ</li>
-                                </ul>
-                            </div>
-                        </div>
+                        <p><strong>YES,</strong> but that is called touring. You will miss the essence of the gathering. GOD is calling on the remnants who desire to remain faithful to the prayer of Jesus in John 17:20-21.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>What is the conference schedule?</h3>
+                        <h3>I am from Malaysia (Indonesia, Afghanistan, Pakistan, etc.) but I am a Believer and a member of a Christian organization/church in my country. Can I attend?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <p><strong>Conference Dates:</strong> December 7-17, 2025 (including travel days)</p>
-                        <p><strong>Location:</strong> Galilee, Israel</p>
-                        
-                        <h4>Itinerary Overview:</h4>
-                        <ul>
-                            <li><strong>Days 1-2:</strong> Travel and arrival</li>
-                            <li><strong>Days 3-4:</strong> Two-day conference sessions</li>
-                            <li><strong>Days 5-9:</strong> Post-conference site activities</li>
-                            <li><strong>Days 10-11:</strong> Return travel</li>
-                        </ul>
-                        
-                        <p>Detailed itinerary will be provided to registered participants closer to the conference date.</p>
+                        <p>The final say will come from Israel Immigration. This is the reason why you need to accomplish the ETA-IL Form online. The final say is with the host country.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <div class="faq-question">
-                        <h3>Can I cancel my registration?</h3>
+                        <h3>I am a PWD, I would need medical assistance, can I attend?</h3>
                         <span class="faq-toggle">+</span>
                     </div>
                     <div class="faq-answer">
-                        <p>Cancellation policies vary by delegate type:</p>
-                        
-                        <h4>Philippine Delegates:</h4>
-                        <ul>
-                            <li>Standard Airline Cancellation Fee applies</li>
-                            <li>Hotel and tour cancellation fees may apply based on timing</li>
-                            <li>Contact the organizers immediately if you need to cancel</li>
-                        </ul>
-                        
-                        <h4>International Delegates:</h4>
-                        <ul>
-                            <li>Full payment is required upon registration</li>
-                            <li>Cancellation terms will be provided upon registration</li>
-                            <li>Contact support for specific cancellation procedures</li>
-                        </ul>
-                        
-                        <p><strong>Important:</strong> Travel insurance is recommended to protect against unforeseen circumstances.</p>
+                        <p><strong>Why not?</strong> If you can bring a companion, and you are willing to spend for the extra services you require, we see no reason why you cannot participate.</p>
                     </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>ON TWIN SHARING: Can I bring my son (children), who will be twin sharing with me but he/they will not attend the conference?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p><strong>YES you may.</strong> However, if your son is a minor needing guardianship or a caregiver, especially during the conference, this added service will be arranged by you at your expense.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Can I extend my stay beyond the conference and the post-conference activities?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p><strong>YES,</strong> as long as your visa allows you. Participants from Visa-Free countries such as the Philippines, are allowed to stay in Israel up to 90 days but we don't suggest you use the full privilege. It will be beneficial if you depart Israel before the end of your Visa-Free period. Any ticket re-booking will be your responsibility.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>Can I extend my stay beyond what my Visa allows?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p><strong>YES, BUT</strong> only if you acquire an approved extension of your Visa from the Population and Immigration Authority under the Ministry of Interior of the State of Israel, <strong>PRIOR to your arrival.</strong> Otherwise, NO.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>I am a Foreigner (any nationality), and a Christian, residing in the Philippines. I want to accompany my wife who desires to participate in the ICCC. Can I apply for a Visa for Israel with the Philippine embassy?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Normally, <strong>NO.</strong> You have to apply from the country of your origin. But, we can always inquire from the embassy for an easier process. No promises.</p>
+                    </div>
+                </div>
+
+                <!-- Foreign Delegates Section -->
+                <div class="faq-section-header">
+                    <h2>Foreign Delegates</h2>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>I am a Christian. I live in a country with no diplomatic relations with Israel. How can I participate in the ICCC?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Fill up the registration form, indicate in the comment section what are the hindrances to your travel to Israel. We shall pass this on to the Israel Immigration Authority and we'll see what they say.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>I want to participate but can I walk-in?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p><strong>No,</strong> as there are space limitations as well as hotel room accommodation, it will be difficult to accept walk-ins.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>I want to participate. Can I pay through other means aside from Credit Cards?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p><strong>Yes,</strong> for instance, bank transfers. As long as payment is received and confirmed by the Depository bank on or before due date.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h3>I want to attend the conference and network with other Christian churches from around the world. Are there booths available to showcase our Ministry involvements and projects?</h3>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p><strong>YES,</strong> but you will have to indicate your needs in the comment section of the Registration Form and indicate your needs at the site... e.g., Service providers, booth systems, personnel assistance, etc. and these will be quoted to you directly by the accredited/designated Service Providers.</p>
+                    </div>
+                </div>
+
+                <!-- Important Notice -->
+                <div class="faq-notice">
+                    <h3>Important Notice</h3>
+                    <p><strong>BE SURE TO FILL UP THE REGISTRATION FORM EARLY AS THERE ARE ONLY 300 SLOTS ALLOTED FOR THE 1ST CONFERENCE.</strong></p>
+                    <p>For inquiries or more information, please send email to: <a href="mailto:iccc.jlm@gmail.com">iccc.jlm@gmail.com</a> (Attention: Secretariat).</p>
                 </div>
             </div>
 
@@ -425,6 +350,74 @@
     margin-bottom: 1rem;
 }
 
+/* Section Headers */
+.faq-section-header {
+    margin: 3rem 0 2rem 0;
+    text-align: center;
+}
+
+.faq-section-header h2 {
+    color: var(--dark-blue);
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    position: relative;
+    display: inline-block;
+}
+
+.faq-section-header h2:after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 3px;
+    background: var(--primary-gold);
+}
+
+/* Important Notice */
+.faq-notice {
+    background: linear-gradient(135deg, var(--primary-gold), var(--accent-orange));
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    margin: 3rem 0;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.faq-notice h3 {
+    color: white;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.faq-notice p {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+.faq-notice a {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.faq-notice a:hover {
+    color: var(--light-gray);
+}
+
+/* Blockquote styling */
+.faq-answer blockquote {
+    background: var(--light-gray);
+    border-left: 4px solid var(--primary-gold);
+    padding: 1rem 1.5rem;
+    margin: 1rem 0;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--dark-blue);
+}
+
 @media (max-width: 768px) {
     .package-comparison,
     .activities-grid,
@@ -439,31 +432,16 @@
     .faq-item.active .faq-answer {
         padding: 1.5rem;
     }
+    
+    .faq-section-header h2 {
+        font-size: 2rem;
+    }
+    
+    .faq-notice {
+        padding: 1.5rem;
+    }
 }
 </style>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const faqItems = document.querySelectorAll('.faq-item');
-    
-    faqItems.forEach(item => {
-        const question = item.querySelector('.faq-question');
-        
-        question.addEventListener('click', () => {
-            const isActive = item.classList.contains('active');
-            
-            // Close all other FAQ items
-            faqItems.forEach(otherItem => {
-                otherItem.classList.remove('active');
-            });
-            
-            // Toggle current item
-            if (!isActive) {
-                item.classList.add('active');
-            }
-        });
-    });
-});
-</script>
 
 <?php get_footer(); ?>
