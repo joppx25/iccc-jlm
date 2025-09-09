@@ -55,7 +55,7 @@
                     <h3>For Philippine Delegates</h3>
                     <div class="package-price">
                         <span class="currency">PHP</span>
-                        <span class="amount">195,000</span>
+                        <span class="amount">₱195,000</span>
                         <span class="per">per person</span>
                     </div>
                     
@@ -85,7 +85,7 @@
                     <h3>For Foreign Delegates</h3>
                     <div class="package-price">
                         <span class="currency">USD</span>
-                        <span class="amount">2,270</span>
+                        <span class="amount">$2,270</span>
                         <span class="per">per person</span>
                     </div>
                     
